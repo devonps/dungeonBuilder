@@ -1,0 +1,194 @@
+[
+  {
+    "name": "square",
+    "cells": [
+      {
+        "max_vertical": 1,
+        "min_vertical": 1,
+        "max_horizontal": 1,
+        "min_horizontal": 1
+      }
+    ],
+    "walkable_area": [
+      {
+        "vertical": 9,
+        "horizontal": 9,
+        "row_1": ".........",
+        "row_2": ".........",
+        "row_3": ".........",
+        "row_4": ".........",
+        "row_5": ".........",
+        "row_6": ".........",
+        "row_7": ".........",
+        "row_8": ".........",
+        "row_9": "........."
+      }
+    ],
+    "doors": [
+      {
+        "max": 4,
+        "min": 1
+      }
+    ]
+  },
+  {
+    "name": "hallway_vertical",
+    "cells": [
+      {
+        "max_vertical": 1,
+        "min_vertical": 1,
+        "max_horizontal": 1,
+        "min_horizontal": 1
+      }
+    ],
+    "walkable_area": [
+      {
+        "vertical": 9,
+        "horizontal": 9,
+        "row_1": "xxxx+xxxx",
+        "row_2": "xxxx.xxxx",
+        "row_3": "xxxx.xxxx",
+        "row_4": "xxxx.xxxx",
+        "row_5": "xxxx.xxxx",
+        "row_6": "xxxx.xxxx",
+        "row_7": "xxxx.xxxx",
+        "row_8": "xxxx.xxxx",
+        "row_9": "xxxx+xxxx"
+      }
+    ],
+    "doors": [
+      {
+        "max": 2,
+        "min": 1
+      }
+    ]
+  },
+  {
+    "name": "hallway_horizontal",
+    "cells": [
+      {
+        "max_vertical": 1,
+        "min_vertical": 1,
+        "max_horizontal": 1,
+        "min_horizontal": 1
+      }
+    ],
+    "walkable_area": [
+      {
+        "vertical": 9,
+        "horizontal": 9,
+        "row_1": "xxxxxxxxx",
+        "row_2": "xxxxxxxxx",
+        "row_3": "xxxxxxxxx",
+        "row_4": "xxxxxxxxx",
+        "row_5": "+.......+",
+        "row_6": "xxxxxxxxx",
+        "row_7": "xxxxxxxxx",
+        "row_8": "xxxxxxxxx",
+        "row_9": "xxxxxxxxx"
+      }
+    ],
+    "doors": [
+      {
+        "max": 2,
+        "min": 1
+      }
+    ]
+  },
+  {
+    "name": "hallway_cross",
+    "cells": [
+      {
+        "max_vertical": 1,
+        "min_vertical": 1,
+        "max_horizontal": 1,
+        "min_horizontal": 1
+      }
+    ],
+    "walkable_area": [
+      {
+        "vertical": 9,
+        "horizontal": 9,
+        "row_1": "xxxx+xxxx",
+        "row_2": "xxxx.xxxx",
+        "row_3": "xxxx.xxxx",
+        "row_4": "xxxx.xxxx",
+        "row_5": "+.......+",
+        "row_6": "xxxx.xxxx",
+        "row_7": "xxxx.xxxx",
+        "row_8": "xxxx.xxxx",
+        "row_9": "xxxx+xxxx"
+      }
+    ],
+    "doors": [
+      {
+        "max": 2,
+        "min": 1
+      }
+    ]
+  },
+  {
+    "name": "hallway_vertical_east",
+    "cells": [
+      {
+        "max_vertical": 1,
+        "min_vertical": 1,
+        "max_horizontal": 1,
+        "min_horizontal": 1
+      }
+    ],
+    "walkable_area": [
+      {
+        "vertical": 9,
+        "horizontal": 9,
+        "row_1": "xxxx+xxxx",
+        "row_2": "xxxx.xxxx",
+        "row_3": "xxxx.xxxx",
+        "row_4": "xxxx.xxxx",
+        "row_5": "xxxx....+",
+        "row_6": "xxxx.xxxx",
+        "row_7": "xxxx.xxxx",
+        "row_8": "xxxx.xxxx",
+        "row_9": "xxxx+xxxx"
+      }
+    ],
+    "doors": [
+      {
+        "max": 2,
+        "min": 1
+      }
+    ]
+  },
+  {
+    "name": "hallway_vertical_west",
+    "cells": [
+      {
+        "max_vertical": 1,
+        "min_vertical": 1,
+        "max_horizontal": 1,
+        "min_horizontal": 1
+      }
+    ],
+    "walkable_area": [
+      {
+        "vertical": 9,
+        "horizontal": 9,
+        "row_1": "xxxx+xxxx",
+        "row_2": "xxxx.xxxx",
+        "row_3": "xxxx.xxxx",
+        "row_4": "xxxx.xxxx",
+        "row_5": "+....xxxx",
+        "row_6": "xxxx.xxxx",
+        "row_7": "xxxx.xxxx",
+        "row_8": "xxxx.xxxx",
+        "row_9": "xxxx+xxxx"
+      }
+    ],
+    "doors": [
+      {
+        "max": 2,
+        "min": 1
+      }
+    ]
+  }
+]

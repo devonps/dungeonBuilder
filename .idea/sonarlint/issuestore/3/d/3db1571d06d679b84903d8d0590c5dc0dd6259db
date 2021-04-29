@@ -1,0 +1,8 @@
+
+tpython:S3776ˆ"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(¯·ÕÕ8Õ¥„òõ.
+ypython:S3776¶"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Şœş†ıÿÿÿÿ8Õ¥„òõ.
+Vpython:S1481¢"6Remove the unused local variable "south_of_this_cell".(š„÷î8”ß¡‘ö.
+Upython:S1481£"5Remove the unused local variable "east_of_this_cell".(¸š´8”ß¡‘ö.
+xpython:S3776W"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(¡ÀªÈıÿÿÿÿ8§˜ãÉõ.
+=python:S125*"Remove this commented out code.(·æùƒ8í¼æéõ.
+Upython:S1481¤"5Remove the unused local variable "west_of_this_cell".(½‚œŒ8”ß¡‘ö.

@@ -1,0 +1,49 @@
+[
+  {
+    "name": "vertical",
+    "dimensions": [
+      {
+        "width": 9,
+        "height": 10
+      }
+    ],
+      "layout": [
+        {
+          "exits": "1010",
+          "row_1": "    .    ",
+          "row_2": "    .    ",
+          "row_3": "    .    ",
+          "row_4": "    .    ",
+          "row_5": "    .    ",
+          "row_6": "    .    ",
+          "row_7": "    .    ",
+          "row_8": "    .    ",
+          "row_9": "    .    ",
+          "row_10": "    .    "
+        }
+      ]
+  },
+  {
+    "name": "horizontal",
+    "dimensions": [
+      {
+        "width": 10,
+        "height": 9
+      }
+    ],
+      "layout": [
+        {
+          "exits": "0101",
+          "row_1": "          ",
+          "row_2": "          ",
+          "row_3": "          ",
+          "row_4": "          ",
+          "row_5": "..........",
+          "row_6": "          ",
+          "row_7": "          ",
+          "row_8": "          ",
+          "row_9": "          "
+        }
+      ]
+  }
+]

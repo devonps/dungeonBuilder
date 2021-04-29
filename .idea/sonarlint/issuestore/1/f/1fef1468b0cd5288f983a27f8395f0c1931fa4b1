@@ -1,0 +1,20 @@
+
+Cpython:S125ó"Remove this commented out code.(åâ¥¨ıÿÿÿÿ8¨É´ç.
+ypython:S3776ë"TRefactor this function to reduce its Cognitive Complexity from 50 to the 15 allowed.(şÉÄŒıÿÿÿÿ8¨É´ç.
+>python:S125É"Remove this commented out code.(¯ÏĞû8âô£ì.
+ypython:S3776–"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(²üßÜıÿÿÿÿ8¨É´ç.
+mpython:S5797İ"HReplace this expression; used as a condition it will always be constant.(œ°ØÏıÿÿÿÿ8¢†˜ì.
+=python:S125£"Remove this commented out code.(‡Ûñr8®‚ ì.
+xpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 58 to the 15 allowed.(ùÆÚÑÿÿÿÿÿ8Çİö©Ş.
+Kpython:S1481¾"&Remove the unused local variable "ex".(¼—È«üÿÿÿÿ8¹áÔì.
+Tpython:S1481Ê"/Remove the unused local variable "room_height".(şÃË½üÿÿÿÿ8àãõœì.
+Fpython:S1481¿"&Remove the unused local variable "ey".(Ø‘8™Áöœì.
+Tpython:S1066İ"/Merge this if statement with the enclosing one.(œ°ØÏıÿÿÿÿ8¢†˜ì.
+Tpython:S1066ˆ"/Merge this if statement with the enclosing one.(ø§Í«úÿÿÿÿ8¨É´ç.
+Opython:S1066Œ"/Merge this if statement with the enclosing one.(ƒÙÒ§8¨É´ç.
+gpython:S1481i"HRemove the unused local variable "tunnel_generate_junction_probability".(£¤à®8¢†˜ì.
+Cpython:S125Ó"Remove this commented out code.(Ê·Æ˜úÿÿÿÿ8¬ò¤é.
+Cpython:S125İ"Remove this commented out code.(ğ’‰ÿÿÿÿÿ8¨É´ç.
+]python:S1481'"9Remove the unused local variable "sheet_build_id_column".(œÏÑºÿÿÿÿÿ8Öèßï.
+Opython:S1066"/Merge this if statement with the enclosing one.(í­•Ğ8¨É´ç.
+]python:S1481l">Remove the unused local variable "prob_to_spawn_new_tunneler".(îäŠ8Á  ì.

@@ -1,0 +1,75 @@
+09:55:21.696 [info] OpenGL: maximum texture size is 16384x16384
+09:55:21.697 [info] OpenGL: GPU supports NPOTD textures
+09:55:21.700 [debug] Group "window":
+09:55:21.700 [debug] * "icon" = "default"
+09:55:21.700 [debug] * "size" = "80x25"
+09:55:21.701 [debug] Group "font":
+09:55:21.702 [debug] * "_" = "default"
+09:55:21.702 [info] New font 'main' -> index 0
+09:55:21.702 [debug] Requested resource "default" with possible prefix "tileset-"
+09:55:21.702 [debug] Resource "tileset-default" is built-in
+09:55:21.703 [debug] Bitmap tileset: failed to parse guessed tile size, not an error
+09:55:21.703 [debug] Requested resource "tileset-default" with possible prefix "codepage-"
+09:55:21.703 [debug] Resource "codepage-tileset-default" is built-in
+09:55:21.704 [debug] Custom codepage file encoding detected to be ASCII UTF-8
+09:55:21.705 [trace] Loaded PNG image, 256x320
+09:55:21.706 [debug] Tileset has 32x20 tiles
+09:55:21.706 [debug] Group "terminal":
+09:55:21.707 [debug] * "encoding" = "utf8"
+09:55:21.707 [debug] Group "input":
+09:55:21.707 [debug] * "filter" = "keyboard"
+09:55:21.707 [debug] SetOptions: new cell size is 8x16
+09:55:21.708 [debug] SetOptions: new window size is 80x25
+09:55:21.709 [info] Applying options from configuration file, if any
+09:55:21.709 [info] Trying to set "input.filter='keyboard';input.precise-mouse='true';"
+09:55:21.709 [debug] Group "input":
+09:55:21.710 [debug] * "filter" = "keyboard"
+09:55:21.710 [debug] * "precise-mouse" = "true"
+09:55:21.710 [info] Trying to set "log.file='bt.log';log.level='trace';"
+09:55:21.714 [debug] Group "log":
+09:55:21.715 [debug] * "file" = "bt.log"
+09:55:21.715 [debug] * "level" = "trace"
+09:55:21.715 [info] Trying to set "window.cellsize='auto';window.resizeable='false';window.size='200x60';window.title='Dungeon Builder (ESC to Quit...M for next map)';"
+09:55:21.716 [debug] Group "window":
+09:55:21.716 [debug] * "cellsize" = "auto"
+09:55:21.716 [debug] * "resizeable" = "false"
+09:55:21.717 [debug] * "size" = "200x60"
+09:55:21.717 [debug] * "title" = "Dungeon Builder (ESC to Quit...M for next map)"
+09:55:21.718 [debug] SetOptions: new window size is 200x60
+09:55:21.720 [info] Applying palette from configuration file
+09:55:21.721 [info] * 'CORRIDOR_WALLS' = '#abdd64' (a=255, r=171, g=221, b=100)
+09:55:21.721 [info] * 'DUNGEON_DOOR' = '#834dc4' (a=255, r=131, g=77, b=196)
+09:55:21.722 [info] * 'DUNGEON_FLOOR' = '#ffffff' (a=255, r=255, g=255, b=255)
+09:55:21.722 [info] * 'INITIAL_DUNGEON_WALLS' = '#390947' (a=255, r=57, g=9, b=71)
+09:55:21.722 [info] * 'colour01' = '#5ba675' (a=255, r=91, g=166, b=117)
+09:55:21.722 [info] * 'colour02' = '#6bc96c' (a=255, r=107, g=201, b=108)
+09:55:21.722 [info] * 'colour04' = '#fcef8d' (a=255, r=252, g=239, b=141)
+09:55:21.723 [info] * 'colour05' = '#ffb879' (a=255, r=255, g=184, b=121)
+09:55:21.723 [info] * 'colour06' = '#ea6262' (a=255, r=234, g=98, b=98)
+09:55:21.723 [info] * 'colour07' = '#cc425e' (a=255, r=204, g=66, b=94)
+09:55:21.723 [info] * 'colour08' = '#a32858' (a=255, r=163, g=40, b=88)
+09:55:21.723 [info] * 'colour09' = '#751756' (a=255, r=117, g=23, b=86)
+09:55:21.724 [info] * 'colour11' = '#611851' (a=255, r=97, g=24, b=81)
+09:55:21.724 [info] * 'colour12' = '#873555' (a=255, r=135, g=53, b=85)
+09:55:21.724 [info] * 'colour13' = '#a6555f' (a=255, r=166, g=85, b=95)
+09:55:21.724 [info] * 'colour14' = '#c97373' (a=255, r=201, g=115, b=115)
+09:55:21.725 [info] * 'colour15' = '#f2ae99' (a=255, r=242, g=174, b=153)
+09:55:21.727 [info] * 'colour16' = '#ffc3f2' (a=255, r=255, g=195, b=242)
+09:55:21.728 [info] * 'colour17' = '#ee8fcb' (a=255, r=238, g=143, b=203)
+09:55:21.728 [info] * 'colour18' = '#d46eb3' (a=255, r=212, g=110, b=179)
+09:55:21.728 [info] * 'colour19' = '#873e84' (a=255, r=135, g=62, b=132)
+09:55:21.728 [info] * 'colour20' = '#1f102a' (a=255, r=31, g=16, b=42)
+09:55:21.729 [info] * 'colour21' = '#4a3052' (a=255, r=74, g=48, b=82)
+09:55:21.729 [info] * 'colour22' = '#7b5480' (a=255, r=123, g=84, b=128)
+09:55:21.729 [info] * 'colour23' = '#a6859f' (a=255, r=166, g=133, b=159)
+09:55:21.729 [info] * 'colour24' = '#d9bdc8' (a=255, r=217, g=189, b=200)
+09:55:21.729 [info] * 'colour26' = '#aee2ff' (a=255, r=174, g=226, b=255)
+09:55:21.730 [info] * 'colour27' = '#8db7ff' (a=255, r=141, g=183, b=255)
+09:55:21.730 [info] * 'colour28' = '#6d80fa' (a=255, r=109, g=128, b=250)
+09:55:21.730 [info] * 'colour29' = '#8465ec' (a=255, r=132, g=101, b=236)
+09:55:21.730 [info] * 'colour31' = '#7d2da0' (a=255, r=125, g=45, b=160)
+09:55:21.730 [info] * 'colour32' = '#4e187c' (a=255, r=78, g=24, b=124)
+09:55:21.731 [info] Terminal initialization complete
+09:55:21.731 [info] Trying to set "terminal.encoding-affects-put=false"
+09:55:21.731 [debug] Group "terminal":
+09:55:21.731 [debug] * "encoding-affects-put" = "false"
