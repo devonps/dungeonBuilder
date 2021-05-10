@@ -7,10 +7,6 @@ from metrics import Metrics, SheetColumns
 
 
 class CellularAutomata:
-    # 	Rather than implement a traditional cellular automata, I
-    # 	decided to try my hand at a method discribed by "Evil
-    # 	Scientist" Andy Stobirski that I recently learned about
-    # 	on the Grid Sage Games blog.
 
     def __init__(self, map_width, map_height):
         self.game_map = GameMap(mapwidth=map_width, mapheight=map_height)
@@ -26,7 +22,7 @@ class CellularAutomata:
         self.iterations = 30000
         self.neighbors = 4  # number of neighboring walls for this cell to become a wall
         # the initial probability of a cell becoming a wall, recommended to be between .35 and .55
-        self.wall_probability = 0.50
+        self.wall_probability = 0.47
         # size in total number of cells, not dimensions
         self.ROOM_MIN_SIZE = 16
         # size in total number of cells, not dimensions

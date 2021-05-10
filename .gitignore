@@ -28,3 +28,4 @@ venv/
 ENV/
 .pytest_cache
 
+*.log
