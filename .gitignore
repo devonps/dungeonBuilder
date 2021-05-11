@@ -29,3 +29,5 @@ ENV/
 .pytest_cache
 
 *.log
+bt.log
+dungeon_metrics.xlsx
