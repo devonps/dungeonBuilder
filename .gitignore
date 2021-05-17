@@ -12,7 +12,7 @@ logs/*
 *.idea
 ## https://github.com/github/gitignore/blob/master/Python.gitignore
 # Byte-compiled / optimized / DLL files
-__pycache__/
+__pycache__/*
 *.py[cod]
 *$py.class
 Actions.txt
