@@ -26,7 +26,7 @@ def main():
                                                                  parameter='max_height')
 
     game_map = None
-    map_type = 3
+    map_type = 7
     if map_type == 0:
         game_map = roomsCorridorsMap.RoomsCorridors.generate_rooms_and_corridors_map()
 
